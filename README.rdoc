@@ -1,28 +1,6 @@
-== README
+== SOS Denúncia
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+O SOS Denúncia é um projeto que tem o objetivo de facilitar e incentivar a
+realização de denúncias de casos de homofobia, violência contra a mulher, racismo, pedofilia, entre outros.
+Dando a devida visibilidade e atenção para os casos, podemos minimizar a impudinidade e aumentar a realização de
+ações preventivas para diminuir ou até acabar com estas ocorrências.
